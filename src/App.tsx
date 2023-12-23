@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <button onClick={}>Set increment</button> */}
+        <button>Set increment</button>
       </header>
     </div>
   );
